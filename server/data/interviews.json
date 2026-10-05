@@ -1,0 +1,339 @@
+[
+  {
+    "_id": "mock_1791181126128_vv05c2",
+    "role": "Full Stack Developer",
+    "level": "Mid-Level",
+    "type": "Technical",
+    "techStack": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "jobDescription": "",
+    "currentQuestionIndex": 0,
+    "questions": [
+      {
+        "id": "q_1791181126128_1",
+        "questionText": "Walk me through how you implement secure JWT-based authentication with refresh token rotation and CSRF protection in a MERN application.",
+        "category": "technical",
+        "starterCode": "",
+        "expectedKeywords": [
+          "httpOnly cookie",
+          "access token",
+          "refresh token rotation",
+          "revocation list",
+          "CSRF token"
+        ],
+        "hints": [
+          "Where should the access token and refresh token be safely stored on the client?"
+        ]
+      }
+    ],
+    "status": "in-progress",
+    "durationMinutes": 0,
+    "createdAt": "2026-10-05T06:18:46.128Z",
+    "updatedAt": "2026-10-05T06:18:46.128Z"
+  },
+  {
+    "_id": "mock_1791181042527_ewlw3k",
+    "role": "Full Stack Developer",
+    "level": "Mid-Level",
+    "type": "Technical",
+    "techStack": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "jobDescription": "",
+    "currentQuestionIndex": 0,
+    "questions": [
+      {
+        "id": "q_1791181042527_1",
+        "questionText": "Walk me through how you implement secure JWT-based authentication with refresh token rotation and CSRF protection in a MERN application.",
+        "category": "technical",
+        "starterCode": "",
+        "expectedKeywords": [
+          "httpOnly cookie",
+          "access token",
+          "refresh token rotation",
+          "revocation list",
+          "CSRF token"
+        ],
+        "hints": [
+          "Where should the access token and refresh token be safely stored on the client?"
+        ]
+      },
+      {
+        "id": "q_1791181042527_2",
+        "questionText": "Implement an in-memory LRU (Least Recently Used) cache with get(key) and put(key, value) in O(1) time complexity.",
+        "category": "coding",
+        "starterCode": "class LRUCache {\n  constructor(capacity) {\n    this.capacity = capacity;\n    this.map = new Map();\n  }\n\n  get(key) {\n    // TODO: return value and mark as recently used\n  }\n\n  put(key, value) {\n    // TODO: insert or update value and evict oldest if over capacity\n  }\n}",
+        "expectedKeywords": [
+          "hash map",
+          "doubly linked list",
+          "O(1)",
+          "eviction"
+        ],
+        "hints": [
+          "A combination of a Map/Hash table and a Doubly Linked List achieves O(1) operations."
+        ]
+      },
+      {
+        "id": "q_1791181042527_3",
+        "questionText": "Design a real-time collaborative document editor (like Google Docs). How do you resolve concurrent edits between multiple connected clients?",
+        "category": "system-design",
+        "starterCode": "",
+        "expectedKeywords": [
+          "WebSockets",
+          "Operational Transformation (OT)",
+          "CRDTs",
+          "vector clocks",
+          "conflict resolution"
+        ],
+        "hints": [
+          "Contrast Operational Transformation (OT) with Conflict-free Replicated Data Types (CRDTs)."
+        ]
+      }
+    ],
+    "status": "in-progress",
+    "durationMinutes": 0,
+    "createdAt": "2026-10-05T06:17:22.527Z",
+    "updatedAt": "2026-10-05T06:17:22.527Z"
+  },
+  {
+    "_id": "mock_1789535979181_448iev",
+    "role": "Full Stack Engineer",
+    "level": "Mid-Level",
+    "type": "Technical",
+    "techStack": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "jobDescription": "",
+    "currentQuestionIndex": 0,
+    "questions": [
+      {
+        "id": "q_1789535979180_1",
+        "questionText": "Walk me through how you implement secure JWT-based authentication with refresh token rotation and CSRF protection in a MERN application.",
+        "category": "technical",
+        "starterCode": "",
+        "expectedKeywords": [
+          "httpOnly cookie",
+          "access token",
+          "refresh token rotation",
+          "revocation list",
+          "CSRF token"
+        ],
+        "hints": [
+          "Where should the access token and refresh token be safely stored on the client?"
+        ]
+      },
+      {
+        "id": "q_1789535979180_2",
+        "questionText": "Implement an in-memory LRU (Least Recently Used) cache with get(key) and put(key, value) in O(1) time complexity.",
+        "category": "coding",
+        "starterCode": "class LRUCache {\n  constructor(capacity) {\n    this.capacity = capacity;\n    this.map = new Map();\n  }\n\n  get(key) {\n    // TODO: return value and mark as recently used\n  }\n\n  put(key, value) {\n    // TODO: insert or update value and evict oldest if over capacity\n  }\n}",
+        "expectedKeywords": [
+          "hash map",
+          "doubly linked list",
+          "O(1)",
+          "eviction"
+        ],
+        "hints": [
+          "A combination of a Map/Hash table and a Doubly Linked List achieves O(1) operations."
+        ]
+      },
+      {
+        "id": "q_1789535979180_3",
+        "questionText": "Design a real-time collaborative document editor (like Google Docs). How do you resolve concurrent edits between multiple connected clients?",
+        "category": "system-design",
+        "starterCode": "",
+        "expectedKeywords": [
+          "WebSockets",
+          "Operational Transformation (OT)",
+          "CRDTs",
+          "vector clocks",
+          "conflict resolution"
+        ],
+        "hints": [
+          "Contrast Operational Transformation (OT) with Conflict-free Replicated Data Types (CRDTs)."
+        ]
+      }
+    ],
+    "status": "in-progress",
+    "durationMinutes": 0,
+    "createdAt": "2026-09-16T05:19:39.181Z",
+    "updatedAt": "2026-09-16T05:19:39.181Z"
+  },
+  {
+    "_id": "mock_1789535819213_qjxo9k",
+    "role": "Full Stack Developer",
+    "level": "Mid-Level",
+    "type": "Technical",
+    "techStack": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "jobDescription": "",
+    "currentQuestionIndex": 0,
+    "questions": [
+      {
+        "id": "q_1789535819212_1",
+        "questionText": "Walk me through how you implement secure JWT-based authentication with refresh token rotation and CSRF protection in a MERN application.",
+        "category": "technical",
+        "starterCode": "",
+        "expectedKeywords": [
+          "httpOnly cookie",
+          "access token",
+          "refresh token rotation",
+          "revocation list",
+          "CSRF token"
+        ],
+        "hints": [
+          "Where should the access token and refresh token be safely stored on the client?"
+        ]
+      },
+      {
+        "id": "q_1789535819212_2",
+        "questionText": "Implement an in-memory LRU (Least Recently Used) cache with get(key) and put(key, value) in O(1) time complexity.",
+        "category": "coding",
+        "starterCode": "class LRUCache {\n  constructor(capacity) {\n    this.capacity = capacity;\n    this.map = new Map();\n  }\n\n  get(key) {\n    // TODO: return value and mark as recently used\n  }\n\n  put(key, value) {\n    // TODO: insert or update value and evict oldest if over capacity\n  }\n}",
+        "expectedKeywords": [
+          "hash map",
+          "doubly linked list",
+          "O(1)",
+          "eviction"
+        ],
+        "hints": [
+          "A combination of a Map/Hash table and a Doubly Linked List achieves O(1) operations."
+        ]
+      },
+      {
+        "id": "q_1789535819213_3",
+        "questionText": "Design a real-time collaborative document editor (like Google Docs). How do you resolve concurrent edits between multiple connected clients?",
+        "category": "system-design",
+        "starterCode": "",
+        "expectedKeywords": [
+          "WebSockets",
+          "Operational Transformation (OT)",
+          "CRDTs",
+          "vector clocks",
+          "conflict resolution"
+        ],
+        "hints": [
+          "Contrast Operational Transformation (OT) with Conflict-free Replicated Data Types (CRDTs)."
+        ]
+      }
+    ],
+    "status": "in-progress",
+    "durationMinutes": 0,
+    "createdAt": "2026-09-16T05:16:59.213Z",
+    "updatedAt": "2026-09-16T05:16:59.213Z"
+  },
+  {
+    "_id": "mock_1789535581637_0f8pbx",
+    "role": "Full Stack Developer",
+    "level": "Senior",
+    "type": "Technical",
+    "techStack": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "questions": [
+      {
+        "id": "q_1789535581637_1",
+        "questionText": "Walk me through how you implement secure JWT-based authentication with refresh token rotation and CSRF protection in a MERN application.",
+        "category": "technical",
+        "starterCode": "",
+        "expectedKeywords": [
+          "httpOnly cookie",
+          "access token",
+          "refresh token rotation",
+          "revocation list",
+          "CSRF token"
+        ],
+        "hints": [
+          "Where should the access token and refresh token be safely stored on the client?"
+        ],
+        "userAnswer": "I use JWT tokens stored in httpOnly cookies with refresh token rotation.",
+        "feedback": {
+          "score": 5,
+          "critique": "Covers introductory concepts, but could benefit from deeper technical depth and specific architectural nuances.",
+          "strengths": [
+            "Direct and structured response format",
+            "Good conceptual understanding of the requested topic"
+          ],
+          "improvements": [
+            "Cite specific real-world metrics, edge cases, and performance considerations",
+            "Elaborate on production failure modes and disaster recovery"
+          ],
+          "idealAnswer": "An exemplary response would systematically break down: 1) Core architecture and operational mechanisms, 2) Trade-offs regarding latency vs throughput, 3) Real-world edge cases (concurrency, network partitioning, cache invalidation), and 4) Concrete monitoring and observability practices."
+        }
+      },
+      {
+        "id": "q_1789535581637_2",
+        "questionText": "Implement an in-memory LRU (Least Recently Used) cache with get(key) and put(key, value) in O(1) time complexity.",
+        "category": "coding",
+        "starterCode": "class LRUCache {\n  constructor(capacity) {\n    this.capacity = capacity;\n    this.map = new Map();\n  }\n\n  get(key) {\n    // TODO: return value and mark as recently used\n  }\n\n  put(key, value) {\n    // TODO: insert or update value and evict oldest if over capacity\n  }\n}",
+        "expectedKeywords": [
+          "hash map",
+          "doubly linked list",
+          "O(1)",
+          "eviction"
+        ],
+        "hints": [
+          "A combination of a Map/Hash table and a Doubly Linked List achieves O(1) operations."
+        ],
+        "userAnswer": "I implement LRU cache using a Map and a doubly linked list to achieve O(1) operations.",
+        "feedback": {
+          "score": 5,
+          "critique": "Clear explanation addressing the core principles with good structure. Demonstrates practical awareness of trade-offs.",
+          "strengths": [
+            "Direct and structured response format",
+            "Good conceptual understanding of the requested topic"
+          ],
+          "improvements": [
+            "Cite specific real-world metrics, edge cases, and performance considerations",
+            "Elaborate on production failure modes and disaster recovery"
+          ],
+          "idealAnswer": "An exemplary response would systematically break down: 1) Core architecture and operational mechanisms, 2) Trade-offs regarding latency vs throughput, 3) Real-world edge cases (concurrency, network partitioning, cache invalidation), and 4) Concrete monitoring and observability practices."
+        }
+      }
+    ],
+    "status": "completed",
+    "createdAt": "2026-09-16T05:13:01.638Z",
+    "updatedAt": "2026-09-16T05:13:01.639Z",
+    "overallFeedback": {
+      "overallScore": 50,
+      "technicalScore": 52,
+      "communicationScore": 49,
+      "problemSolvingScore": 51,
+      "confidenceScore": 48,
+      "hiringVerdict": "Needs Preparation",
+      "summary": "The candidate demonstrated strong foundational knowledge for the Full Stack Developer (Senior) position. Responses showed sound reasoning, logical structuring, and an understanding of modern software engineering best practices.",
+      "keyStrengths": [
+        "Strong articulation of architectural components and modular boundaries",
+        "Logical problem-solving flow under mock interview conditions",
+        "Good awareness of security, caching, and maintainability"
+      ],
+      "areasForImprovement": [
+        "Deepen focus on distributed system edge cases, such as idempotency and concurrency locks",
+        "Structure behavioral responses even tighter using the STAR method (Situation, Task, Action, Result)",
+        "Mention observability (metrics, logs, traces) when designing backend flows"
+      ],
+      "actionableRoadmap": [
+        "Review advanced distributed systems concepts (CAP theorem, consensus algorithms, event-driven architectures)",
+        "Practice 3-5 LeetCode medium algorithmic challenges focusing on time/space complexity trade-offs",
+        "Prepare 4 structured STAR stories highlighting cross-functional leadership and conflict resolution"
+      ]
+    },
+    "durationMinutes": 12
+  }
+]

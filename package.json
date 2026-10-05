@@ -1,0 +1,15 @@
+{
+  "name": "ai-mock-interview-platform",
+  "version": "1.0.0",
+  "description": "Full-stack AI-powered mock interview platform using MERN stack and Google Gemini AI",
+  "scripts": {
+    "server": "npm --prefix server start",
+    "server:dev": "npm --prefix server run dev",
+    "client": "npm --prefix client dev",
+    "install:all": "npm --prefix server install && npm --prefix client install",
+    "build:client": "npm --prefix client run build"
+  },
+  "keywords": ["mern", "ai", "mock-interview", "gemini", "react", "nodejs", "voice", "speech"],
+  "author": "",
+  "license": "MIT"
+}
